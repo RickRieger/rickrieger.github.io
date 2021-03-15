@@ -1,0 +1,45 @@
+body{
+    background-color: burlywood;
+}
+
+.text{
+    color:blue;
+    
+}
+
+
+img{
+    height:500px;
+    width:500px;
+    position: relative;
+    display: block;
+}
+
+
+/* hover style */
+a:hover {
+    background-color: yellow;
+  }
+
+
+h1:hover{
+      color:deepskyblue
+  }
+
+  text:hover{
+    color:darkturquoise;
+}
+
+  img:hover{
+   
+        transform: rotate(45deg); /* Equal to rotateZ(45deg) */
+        background-color: pink;
+        filter: blur(4px);
+      
+  }
+
+
+
+
+
+
