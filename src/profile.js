@@ -210,6 +210,10 @@ const exercises = [
     name: 'The Function Returns',
     code: 'https://github.com/RickRieger/the-function-returns',
   },
+  {
+    name: 'Return Of The String',
+    code: 'https://github.com/RickRieger/return-of-the-string',
+  },
 ];
 
 // ---------------------------------------------------------------------
