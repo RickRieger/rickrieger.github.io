@@ -222,6 +222,10 @@ const exercises = [
     name: "Foolin' With Booleans",
     code: 'https://github.com/RickRieger/foolin-with-booleans',
   },
+  {
+    name: 'If Learning',
+    code: 'https://github.com/RickRieger/if-learning',
+  },
 ];
 
 // ---------------------------------------------------------------------
