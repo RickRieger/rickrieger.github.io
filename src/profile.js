@@ -226,6 +226,10 @@ const exercises = [
     name: 'If Learning',
     code: 'https://github.com/RickRieger/if-learning',
   },
+  {
+    name: 'Fizzy (FizzBuzz)',
+    code: 'https://github.com/RickRieger/fizzy',
+  },
 ];
 
 // ---------------------------------------------------------------------
