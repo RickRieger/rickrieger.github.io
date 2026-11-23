@@ -198,6 +198,10 @@ const exercises = [
     name: 'Make Variables Not War',
     code: 'https://github.com/RickRieger/make-variables-not-war',
   },
+  {
+    name: 'Functions Ahoy',
+    code: 'https://github.com/RickRieger/functions-ahoy',
+  },
 ];
 
 // ---------------------------------------------------------------------
