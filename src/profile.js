@@ -234,6 +234,10 @@ const exercises = [
     name: 'Node-Along (command-line scripts)',
     code: 'https://github.com/RickRieger/node-along',
   },
+  {
+    name: 'Node Immersives (terminal app)',
+    code: 'https://github.com/RickRieger/node-immersives',
+  },
 ];
 
 // ---------------------------------------------------------------------
