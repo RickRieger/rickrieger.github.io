@@ -202,6 +202,10 @@ const exercises = [
     name: 'Functions Ahoy',
     code: 'https://github.com/RickRieger/functions-ahoy',
   },
+  {
+    name: 'Functions With Parameters',
+    code: 'https://github.com/RickRieger/functions-with-parameters',
+  },
 ];
 
 // ---------------------------------------------------------------------
