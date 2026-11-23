@@ -214,6 +214,10 @@ const exercises = [
     name: 'Return Of The String',
     code: 'https://github.com/RickRieger/return-of-the-string',
   },
+  {
+    name: 'Stop Calling Yourself',
+    code: 'https://github.com/RickRieger/stop-calling-yourself-stop-calling-yourself',
+  },
 ];
 
 // ---------------------------------------------------------------------
