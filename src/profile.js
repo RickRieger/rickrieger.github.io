@@ -206,6 +206,10 @@ const exercises = [
     name: 'Functions With Parameters',
     code: 'https://github.com/RickRieger/functions-with-parameters',
   },
+  {
+    name: 'The Function Returns',
+    code: 'https://github.com/RickRieger/the-function-returns',
+  },
 ];
 
 // ---------------------------------------------------------------------
