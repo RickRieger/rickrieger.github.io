@@ -230,6 +230,10 @@ const exercises = [
     name: 'Fizzy (FizzBuzz)',
     code: 'https://github.com/RickRieger/fizzy',
   },
+  {
+    name: 'Node-Along (command-line scripts)',
+    code: 'https://github.com/RickRieger/node-along',
+  },
 ];
 
 // ---------------------------------------------------------------------
