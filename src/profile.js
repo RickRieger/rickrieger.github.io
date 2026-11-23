@@ -218,6 +218,10 @@ const exercises = [
     name: 'Stop Calling Yourself',
     code: 'https://github.com/RickRieger/stop-calling-yourself-stop-calling-yourself',
   },
+  {
+    name: "Foolin' With Booleans",
+    code: 'https://github.com/RickRieger/foolin-with-booleans',
+  },
 ];
 
 // ---------------------------------------------------------------------
