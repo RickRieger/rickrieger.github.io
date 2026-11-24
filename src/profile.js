@@ -258,6 +258,10 @@ const exercises = [
     name: 'Color Cleaver: Back End (color-wheel logic)',
     code: 'https://github.com/RickRieger/color-cleaver-backend',
   },
+  {
+    name: 'Color Cleaver: Front End (command-line color mixer)',
+    code: 'https://github.com/RickRieger/color-cleaver-front-end',
+  },
 ];
 
 // ---------------------------------------------------------------------
