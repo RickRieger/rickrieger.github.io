@@ -267,6 +267,10 @@ const exercises = [
     url: 'https://rickrieger.github.io/FlexBoxAnimateMenu-/',
     code: 'https://github.com/RickRieger/FlexBoxAnimateMenu-',
   },
+  {
+    name: 'You Deserve Arrays',
+    code: 'https://github.com/RickRieger/you-deserve-arrays',
+  },
 ];
 
 // ---------------------------------------------------------------------
