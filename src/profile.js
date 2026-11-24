@@ -246,6 +246,10 @@ const exercises = [
     name: 'Node Immersives (terminal app)',
     code: 'https://github.com/RickRieger/node-immersives',
   },
+  {
+    name: 'Log Up: Back End (login logic)',
+    code: 'https://github.com/RickRieger/log-up-back-end',
+  },
 ];
 
 // ---------------------------------------------------------------------
