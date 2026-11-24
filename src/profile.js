@@ -271,6 +271,10 @@ const exercises = [
     name: 'You Deserve Arrays',
     code: 'https://github.com/RickRieger/you-deserve-arrays',
   },
+  {
+    name: 'Hip Hip Array (array methods)',
+    code: 'https://github.com/RickRieger/hip-hip-array',
+  },
 ];
 
 // ---------------------------------------------------------------------
