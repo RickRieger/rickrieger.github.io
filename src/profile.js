@@ -250,6 +250,10 @@ const exercises = [
     name: 'Log Up: Back End (login logic)',
     code: 'https://github.com/RickRieger/log-up-back-end',
   },
+  {
+    name: 'Log Up: Front End (command-line login app)',
+    code: 'https://github.com/RickRieger/log-up-front-end',
+  },
 ];
 
 // ---------------------------------------------------------------------
