@@ -262,6 +262,11 @@ const exercises = [
     name: 'Color Cleaver: Front End (command-line color mixer)',
     code: 'https://github.com/RickRieger/color-cleaver-front-end',
   },
+  {
+    name: 'Responsive Animated Nav Menu',
+    url: 'https://rickrieger.github.io/FlexBoxAnimateMenu-/',
+    code: 'https://github.com/RickRieger/FlexBoxAnimateMenu-',
+  },
 ];
 
 // ---------------------------------------------------------------------
