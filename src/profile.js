@@ -275,6 +275,10 @@ const exercises = [
     name: 'Hip Hip Array (array methods)',
     code: 'https://github.com/RickRieger/hip-hip-array',
   },
+  {
+    name: 'For Of 4 Lyfe (for...of loops)',
+    code: 'https://github.com/RickRieger/for-of-4-lyfe',
+  },
 ];
 
 // ---------------------------------------------------------------------
