@@ -292,6 +292,10 @@ const exercises = [
     name: 'While The Long Face? (loop until a goal is met)',
     code: 'https://github.com/RickRieger/while-the-long-face',
   },
+  {
+    name: 'String Theory (string building)',
+    code: 'https://github.com/RickRieger/string-theory',
+  },
 ];
 
 // ---------------------------------------------------------------------
