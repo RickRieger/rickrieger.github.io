@@ -279,6 +279,10 @@ const exercises = [
     name: 'For Of 4 Lyfe (for...of loops)',
     code: 'https://github.com/RickRieger/for-of-4-lyfe',
   },
+  {
+    name: 'While You Were Coding (while loops)',
+    code: 'https://github.com/RickRieger/while-you-were-coding',
+  },
 ];
 
 // ---------------------------------------------------------------------
