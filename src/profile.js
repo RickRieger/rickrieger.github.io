@@ -254,6 +254,10 @@ const exercises = [
     name: 'Log Up: Front End (command-line login app)',
     code: 'https://github.com/RickRieger/log-up-front-end',
   },
+  {
+    name: 'Color Cleaver: Back End (color-wheel logic)',
+    code: 'https://github.com/RickRieger/color-cleaver-backend',
+  },
 ];
 
 // ---------------------------------------------------------------------
