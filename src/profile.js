@@ -296,6 +296,10 @@ const exercises = [
     name: 'String Theory (string building)',
     code: 'https://github.com/RickRieger/string-theory',
   },
+  {
+    name: 'Midterm Problems',
+    code: 'https://github.com/RickRieger/midterm-problems',
+  },
 ];
 
 // ---------------------------------------------------------------------
